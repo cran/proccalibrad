@@ -1,0 +1,9 @@
+9a66e4ae817d53d7c1fe34ecc9988a52 *DESCRIPTION
+3c791b32f545595dfb7be6cace620dcb *NAMESPACE
+c0c8f8a9c455fc205d440cebe545bb68 *R/proccalibrad.R
+0f1e2582ebf52444ce55f08536b540e4 *man/adf.Rd
+2d318417f5766a94cfa98d955637cbc7 *man/check_for_matching_geolocation_files_mod02nrt.Rd
+2967c1240047f1985fb7cf2c652738c3 *man/extract_fn_from_path.Rd
+c14e9fe71fd6b0fecc56bf71b2a32b9d *man/run_swath2grid_mod02nrt.Rd
+b9d8ac524d62f2b472cdf85298a680ef *man/slashslash.Rd
+75cb64dae277f469cc04ecb00cafbae5 *man/write_MRTSwath_param_file_mod02nrt.Rd
